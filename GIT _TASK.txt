@@ -1,0 +1,19 @@
+NAME: Akinrolabu Lolade
+
+EMAIL: lodfreelance@gmail.com
+
+USERNAME: lodakins
+
+
+TRACKS:
+1. Frontend
+2. Backend
+3. Mobile
+4. Design
+
+COURSES
+1. html,css,js
+2. kotlin
+3. php
+4. design
+5. nodejs
