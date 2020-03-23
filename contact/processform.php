@@ -29,7 +29,6 @@ if($file == false){
   fwrite($file,$msg);
   fclose($file);
 
-  header("Location:index.php");
   
 }
 

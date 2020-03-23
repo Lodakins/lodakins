@@ -12,7 +12,7 @@
 </header>
 <p> </p>
 <form action="processform.php" method="POST">
-<p><label for="firstname"> First Name<span> * </span></label>
+<p><label for="firstname"> First Name </label>
 <input type="text" name="firstname" id="firstname" >
 </p>
 <p>
@@ -20,11 +20,11 @@
 <input type="text" name="lastname" id="lastname" >
 </p>
 <p>
-<label for="surname"> Surname <span> * </span></label>
+<label for="surname"> Surname </label>
 <input type="text" name="surname" id="surname" >
 </p>
 <p>
-<label for="gender"> Gender <span> * </span></label>
+<label for="gender"> Gender </label>
 <input type="radio" name="gender" value="male" > Male
 <input type="radio" name="gender" value="female" > Female
 </p>
@@ -38,7 +38,7 @@
   </select>
 </p>
 <p>
-<label for="comments"> Comments<span> * </span> </label>
+<label for="comments"> Comments </label>
 <br/>
 <textarea name="comments">
 </textarea>
