@@ -7,12 +7,11 @@ function getType(number){
             message = message+="yu";
         } 
         if(i%3==0){
-            message = message.length==0? message+="gi" : message+=" gi";
+            message = message.length==0? message+="gi" : message+="-gi";
         }
         if(i%5==0){
-            message = message.length==0? message+="oh" : message+=" oh";
+            message = message.length==0? message+="oh" : message+="-oh";
         }
-       message= message.length == 2 ? message.trim() :  message.split(" ").join("-");
         array.push(message || i);
     }
 
